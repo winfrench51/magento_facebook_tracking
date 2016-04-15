@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<config>
+    <modules>
+        <Modypody_Fbpix>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Modypody_Fbpix>
+    </modules>
+</config>
